@@ -9,14 +9,15 @@
 
 <h3 id="EasyList"> Easy </h3>
 <hr/>
-<ul></ul>
+<ul class="Easy">
+</ul>
 
 <h3 id="MediumList"> Medium </h3>
 <hr/>
-<ul></ul>
+<ul class="Medium"></ul>
 
 <h3 id="HardList"> Hard </h3>
 <hr/>
-<ul></ul>
+<ul class="Hard"></ul>
 
 <sub> Created by Leet2Git© </sub>
